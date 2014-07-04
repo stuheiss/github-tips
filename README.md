@@ -1,7 +1,7 @@
 github-tips
 ===========
 
-== Tips on github usage
+== Tips on github usage ==
 
 === Update your fork directly from GitHub:
 

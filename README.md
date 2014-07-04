@@ -14,3 +14,8 @@ Click on switching the base. Now GitHub will compare your fork with the original
 Click on Click to create a pull request for this comparison and assign a predictable name to your pull request (e.g., Update from original).
 Click on Send pull request.
 Scroll down and click Merge pull request and finally Confirm merge. If your fork didn’t have any changes, you will be able to merge it automatically.
+
+## Markdown
+
+see: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
+see: https://help.github.com/articles/github-flavored-markdown

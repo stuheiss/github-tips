@@ -1,9 +1,10 @@
 github-tips
 ===========
 
-Tips on github usage
+== Tips on github usage
 
-Update your fork directly from GitHub:
+=== Update your fork directly from GitHub:
+
 see: http://www.hpique.com/2013/09/updating-a-fork-directly-from-github/
 
 Open your fork on GitHub.

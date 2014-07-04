@@ -5,7 +5,7 @@ github-tips
 
 ### Update your fork directly from GitHub:
 
-see: http://www.hpique.com/2013/09/updating-a-fork-directly-from-github/
+- see: http://www.hpique.com/2013/09/updating-a-fork-directly-from-github/
 
 Open your fork on GitHub.
 Click on Pull Requests.
@@ -17,5 +17,5 @@ Scroll down and click Merge pull request and finally Confirm merge. If your fork
 
 ## Markdown
 
-see: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
-see: https://help.github.com/articles/github-flavored-markdown
+- see: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
+- see: https://help.github.com/articles/github-flavored-markdown
